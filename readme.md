@@ -19,7 +19,7 @@ Here are some screenshots of the project:
   ![Laptop Screen](/images/laptopscreen.png)
 
 - **Tablet Screen**:
-  ![Tablet Screen](/images/tablet.png)
+  ![Tablet Screen](/images/tabletscreen.png)
 
 - **Mobile Screen**:
   ![Mobile Screen](/images/mobilescreen.png)
